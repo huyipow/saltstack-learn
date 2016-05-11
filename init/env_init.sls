@@ -4,5 +4,5 @@ include:
   - init.sysctl
   - init.dns
   - init.epel
-  - init.salt_agent
   - init.selinux
+  - init.network
